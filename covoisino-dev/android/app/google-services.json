@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "730189227982",
+    "project_id": "covoisino-a7c56",
+    "storage_bucket": "covoisino-a7c56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730189227982:android:980f1d2b666b6739f6ad9f",
+        "android_client_info": {
+          "package_name": "com.covoisino.covoisinoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730189227982-mjgr285k0245g343sce1hcim3ucaspqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covoisino.covoisinoapp",
+            "certificate_hash": "2f12aa87d92f3b7daf6b5473494961c76c2fe012"
+          }
+        },
+        {
+          "client_id": "730189227982-n856c670f7hpk3u81ag5c24b64bdji01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09_Ch8gaHHDLPxkXVNF5jzPWsgLCUZ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730189227982-n856c670f7hpk3u81ag5c24b64bdji01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730189227982-k73lad1gceqejf9fssqs1ipjniel23h5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.covoisino"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730189227982:android:e7f33304ac6e6f1bf6ad9f",
+        "android_client_info": {
+          "package_name": "com.example.covoisino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730189227982-n856c670f7hpk3u81ag5c24b64bdji01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09_Ch8gaHHDLPxkXVNF5jzPWsgLCUZ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730189227982-n856c670f7hpk3u81ag5c24b64bdji01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730189227982-k73lad1gceqejf9fssqs1ipjniel23h5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.covoisino"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
